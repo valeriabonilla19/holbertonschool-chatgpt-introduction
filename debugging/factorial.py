@@ -13,4 +13,3 @@ def factorial(n):
 
 f = factorial(int(sys.argv[1]))
 print(f)
-
